@@ -1,0 +1,13 @@
+:root{
+    /* Cores-Colors */
+    --primary-red: #E71418;
+    --secondary-red: #FF002B;
+    --primary-white: #FFFFFF;
+
+    /* Fontes-Fonts */
+
+    --primary-font: 'Palanquin Dark',
+    sans-serif;
+    --secondary-font: 'Lato', sans-serif;
+    --tertiary-font: 'Khula', sans-serif;
+}
